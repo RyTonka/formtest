@@ -1,8 +1,9 @@
 input {
 padding: 20px;
 }
+head {background-color: #FF7F50;} 
 
-.title { text-align: center
-background-color: #FF7F50;
+.title { 
+text-align: center;
 color: white;
 }
