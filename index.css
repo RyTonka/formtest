@@ -1,11 +1,8 @@
 input {
 padding: 20px;
-
 }
 
-head {
+.title { text-align: center
 background-color: #FF7F50;
-
+color: white;
 }
-
-.title { text-align: center}
